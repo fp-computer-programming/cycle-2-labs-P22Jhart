@@ -2,3 +2,6 @@
 
 first_name = "Jordan"
 print(first_name)
+
+hobby="playing video games"
+print(hobby)
