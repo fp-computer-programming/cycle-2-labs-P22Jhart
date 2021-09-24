@@ -1,5 +1,9 @@
-text = input("Jordan")
+text1 = input("Jordan")
 
-text = input("hart")
+text2 = input("hart")
 
-text = input("Jordan hart") 
+text3 = input("Jordan hart") 
+
+text1 = text3
+
+text2 = text3
